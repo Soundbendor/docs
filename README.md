@@ -6,7 +6,7 @@ This wiki serves as a living document for lab members to document technical proc
 
 # Lab Member Orientation
 New lab members should start by reviewing the following pages to familiarize oneself with our lab's computational resources and experiment workflows
-- [Getting Started with the HPC]
-- [Pytorch Hello World]
-- [Using the Zotero]
-- [MLOps with Neptune]
+- [Getting Started with the HPC](https://github.com/Soundbendor/docs/wiki/Using-the-HPC)
+- [Pytorch Hello World](https://github.com/Soundbendor/docs/wiki/Pytorch-Hello-World)
+- [Using the Zotero](https://github.com/Soundbendor/docs/wiki/Zotero-Best-Practices)
+- [MLOps with Neptune](https://github.com/Soundbendor/docs/wiki/MLOps-with-Neptune)
