@@ -89,6 +89,7 @@
 | 2014 | [Emotify](https://dspace.library.uu.nl/handle/1874/303232) | [▤](https://www.projects.science.uu.nl/memotion/emotifydata/) | 400 60-sec excerpts with 9 emotion annotations |
 | 2013 | [EMO-Music](https://dl.acm.org/doi/abs/10.1145/2506364.2506365) | [▤](https://cvml.unige.ch/databases/emoMusic/) | 744 45-sec excerpts annotated  |
 | 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 60-sec excerpts of music videos annotated arousal, valence, and dominance |
+| 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
 | | []() | [▤]() | |
 
 ## Genre
