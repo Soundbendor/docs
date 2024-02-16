@@ -59,7 +59,9 @@
 | 2003 | [RWC](https://jhir.library.jhu.edu/items/7c3a3fd3-9083-42ad-9b00-3bfc5a2ff8a4) | [▤](https://staff.aist.go.jp/m.goto/RWC-MDB/) | 50 musical instruments (paid) |
 | 2016 | [GOOD-SOUNDS](https://repositori.upf.edu/handle/10230/32131) | [▤](https://www.upf.edu/web/mtg/good-sounds) | single notes and scales of 12 instruments by 15 musicians | 
 | 2020 | [OrchideaSOL](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://zenodo.org/record/3686252#.XnFmCy2h1IU%22) | tiny and medium versions of SOL orchestral instruments collection (needs Ircam Form subscription)|
-| 2020 | [FullSOL (Paid)](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://forum.ircam.fr/projects/detail/fullsol/) | big of SOL orchestral instruments collection (needs Premium Ircam Form subscription)|
+| 2020 | [FullSOL (Paid)](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://forum.ircam.fr/projects/detail/fullsol/) | big version of SOL orchestral instruments collection (needs Premium Ircam Form subscription)|
+| 2014 | [MedleyDB](https://rachelbittner.weebly.com/uploads/3/2/1/8/32182799/bittner_ismir_2014.pdf) | [▤](https://medleydb.weebly.com/downloads.html) | multitrack recordings for melody extraction and instrument recognition|
+| 2019 | [Medley-SolosDB](https://www.lostanlen.com/pubs/lostanlen2016ismir/) | [▤](https://zenodo.org/records/2582103) | three-second audio clips from MedleyDB and 126 solos recordings from Joder et al.|
 | | []() | [▤]() | |
 
 ## Orchestration
