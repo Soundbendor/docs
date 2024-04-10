@@ -10,6 +10,7 @@
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
 | 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
 |2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scores | 
+|2011 | [MIR-1k](https://ieeexplore.ieee.org/abstract/document/5153305) | [▤](https://zenodo.org/records/3532216) | 5000 Chinese pop songs (8 females, 11 males) with "mixture" and backing tracks | 
 | | []() | [▤]() | |
 
 ## Piano
@@ -62,6 +63,7 @@
 | 2020 | [FullSOL (Paid)](https://www.tandfonline.com/doi/full/10.1080/09298215.2022.2150650?fbclid=IwAR3L8Mvuu8YCgbKt6vkmKalChuyioyB2-nqQtMAcGk-tf4C7riMCzTG1-dQ) | [▤](https://forum.ircam.fr/projects/detail/fullsol/) | big version of SOL orchestral instruments collection (needs Premium Ircam Form subscription)|
 | 2014 | [MedleyDB](https://rachelbittner.weebly.com/uploads/3/2/1/8/32182799/bittner_ismir_2014.pdf) | [▤](https://medleydb.weebly.com/downloads.html) | multitrack recordings for melody extraction and instrument recognition|
 | 2019 | [Medley-SolosDB](https://www.lostanlen.com/pubs/lostanlen2016ismir/) | [▤](https://zenodo.org/records/2582103) | three-second audio clips from MedleyDB and 126 solos recordings from Joder et al.|
+| 2017 | [MDM-stem-synth](https://repositori.upf.edu/handle/10230/43544) | [▤](https://zenodo.org/records/1481172) | 230 "solo stems" from MedleyDB (resynthesized instruments/voices)|
 | | []() | [▤]() | |
 
 ## Orchestration
