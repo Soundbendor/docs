@@ -145,6 +145,7 @@
 | Year | | Name | Data | | Description | 
 | --- | --- | :---: | --- | 
 | 2011 | [Wikiphonia](https://en.wikipedia.org/wiki/Wikifonia) | N/A | 6,675 lead sheets in MusicXML format |
+| 2020 | [SignalTrain](https://arxiv.org/abs/1905.11928) | [▤](https://zenodo.org/records/3824876)  | recordings of sounds fed through the Teletronix LA-2A opto-electronic compressor |
 | | []() | [▤]() | |
 
 
