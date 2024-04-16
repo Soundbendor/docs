@@ -101,11 +101,11 @@
 ## Genre
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2022 | [ComMU](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fff3ba5059aeeb88c324b6ba9b298166-Abstract-Datasets_and_Benchmarks.html) | [▤](https://pozalabs.github.io/ComMU/) | professionally-composed MIDI sequences with metadata (including genre) |
 | 2021 | [MTG-Jamendo](https://repositori.upf.edu/handle/10230/42015) | [▤](https://mtg.github.io/mtg-jamendo-dataset/) | 55k songs annotated with 87 genres |
 | 2019 | [AcousticBrainz](https://repositori.upf.edu/handle/10230/41985) | [▤](https://mtg.github.io/acousticbrainz-genre-dataset/) | audio features for 2M+ songs with genre annotations |
 | 2017 | [FMA](https://arxiv.org/abs/1612.01840) | [▤](https://github.com/mdeff/fma) | 106,574 tracks annotated with 161 genres|
 | 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
-| 2022 | [ComMU](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fff3ba5059aeeb88c324b6ba9b298166-Abstract-Datasets_and_Benchmarks.html) | [▤](https://pozalabs.github.io/ComMU/) | professionally-composed MIDI sequences with metadata (including genre) |
 | | []() | [▤]() | |
 
 ## Form/Structure
