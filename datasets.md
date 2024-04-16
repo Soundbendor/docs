@@ -23,8 +23,8 @@
 ## Guitar
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2018 | [GuitarSet](https://ismir2018.ismir.net/doc/pdfs/188_Paper.pdf) | [▤](https://zenodo.org/records/3371780) | acoustic guitar recordings with MIDI (360 samples, 30 seconds each) |
 | 2023 | [Guitar Style Dataset](https://www.sciencedirect.com/science/article/pii/S2352340923009046) | [▤](https://zenodo.org/records/10075352) | electric guitar with various playing techniques |
+| 2018 | [GuitarSet](https://ismir2018.ismir.net/doc/pdfs/188_Paper.pdf) | [▤](https://zenodo.org/records/3371780) | acoustic guitar recordings with MIDI (360 samples, 30 seconds each) |
 | | []() | [▤]() | |
 
 ## Strings
