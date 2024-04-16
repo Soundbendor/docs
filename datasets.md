@@ -85,7 +85,9 @@
 ## Emotion
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2023 | [MERP]([https://arxiv.org/abs/2108.01374](https://www.mdpi.com/1424-8220/23/1/382)) | [▤]([https://zenodo.org/records/5090631](https://github.com/dorienh/MERP)) | 50 songs annotated with valence/arousal quadrants |
 | 2021 | [EMOPIA](https://arxiv.org/abs/2108.01374) | [▤](https://zenodo.org/records/5090631) | 1087 excerpts from 387 songs annotated with valence/arousal quadrants |
+| 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
 | 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 45-sec songs excerpts annotated with valence and arousal |
 | 2018 | [Deezer](https://arxiv.org/abs/1809.07276) | [▤](https://github.com/deezer/deezer_mood_detection_dataset) | 18000 songs with synthetic valence and arousal (no audio) |
 | 2016 | [DEAM](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173392) | [▤](https://cvml.unige.ch/databases/DEAM/) | 1802 30-sec song excerpts annotated with valence and arousal |
@@ -93,7 +95,7 @@
 | 2014 | [Emotify](https://dspace.library.uu.nl/handle/1874/303232) | [▤](https://www.projects.science.uu.nl/memotion/emotifydata/) | 400 60-sec excerpts with 9 emotion annotations |
 | 2013 | [EMO-Music](https://dl.acm.org/doi/abs/10.1145/2506364.2506365) | [▤](https://cvml.unige.ch/databases/emoMusic/) | 744 45-sec excerpts annotated  |
 | 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 60-sec excerpts of music videos annotated arousal, valence, and dominance |
-| 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
+
 | | []() | [▤]() | |
 
 ## Genre
