@@ -4,12 +4,12 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2023 | [ChoralSynth](https://arxiv.org/abs/2311.08350) | [▤](https://zenodo.org/records/10161065) | synthesized dataset of 20 multitrack choral songs |
+|2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scores | 
+| 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
 | 2021 | [Vocadito](https://arxiv.org/abs/2110.05580) | [▤](https://zenodo.org/records/5557945) | 40 excerpts of solo singing annotated with pitch |
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating 17 vocal techniques on 5 vowels |
 | 2018 | [DAMP-MVP]() | [▤](https://zenodo.org/records/2747436) | recordings of sung karaoke tracks, lyrics text files, and metadata |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
-| 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
-|2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scores | 
 |2011 | [MIR-1k](https://ieeexplore.ieee.org/abstract/document/5153305) | [▤](https://zenodo.org/records/3532216) | 5000 Chinese pop songs (8 females, 11 males) with "mixture" and backing tracks | 
 | | []() | [▤]() | |
 
