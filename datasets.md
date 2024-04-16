@@ -111,8 +111,8 @@
 ## Form/Structure
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
 | 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
+| 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
 | 2009 | [Isophonics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation annotations for various popular artists (audio not included) |
 | | []() | [▤]() | |
 
@@ -146,8 +146,8 @@
 ## Misc
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- | 
-| 2011 | [Wikiphonia](https://en.wikipedia.org/wiki/Wikifonia) | N/A | 6,675 lead sheets in MusicXML format |
 | 2020 | [SignalTrain](https://arxiv.org/abs/1905.11928) | [▤](https://zenodo.org/records/3824876)  | recordings of sounds fed through the Teletronix LA-2A opto-electronic compressor |
+| 2011 | [Wikiphonia](https://en.wikipedia.org/wiki/Wikifonia) | N/A | 6,675 lead sheets in MusicXML format |
 | | []() | [▤]() | |
 
 
