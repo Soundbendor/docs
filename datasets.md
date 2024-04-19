@@ -144,6 +144,12 @@
 | 2023 | [Song Describer Dataset](https://arxiv.org/abs/2311.10057) | [▤](https://zenodo.org/records/10072001) | 1.1k captions for 706 recordings |
 | | []() | [▤]() | |
 
+## Multimodal
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- | 
+| 2021 | [TAU Urban Audio-Visual Scenes 2021](https://ieeexplore.ieee.org/abstract/document/9415085) | [▤](https://zenodo.org/records/4477542)  | 10 second audio + visual acoustic scenes |
+| | []() | [▤]() | |
+
 ## Misc
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- | 
