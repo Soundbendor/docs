@@ -108,9 +108,10 @@
 | 2011 | [MSD](https://academiccommons.columbia.edu/doi/10.7916/D8NZ8J07) | [▤](http://millionsongdataset.com/) | extracted features for 1M song (no audio) |
 | | []() | [▤]() | |
 
-## Form/Structure
+## Form/Structure/Analysis
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2020 | [Bach Chorales Figured Bass](https://program.ismir2020.net/poster_5-02.html) | [▤](https://zenodo.org/records/5084914#.YO4nSzPiuHv) | 139 J.S. Bach chorales with figured bass (MusicXML) |
 | 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
 | 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
 | 2009 | [Isophonics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation annotations for various popular artists (audio not included) |
