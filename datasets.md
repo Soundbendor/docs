@@ -150,6 +150,13 @@
 | 2021 | [TAU Urban Audio-Visual Scenes 2021](https://ieeexplore.ieee.org/abstract/document/9415085) | [▤](https://zenodo.org/records/4477542)  | 10 second audio + visual acoustic scenes |
 | | []() | [▤]() | |
 
+## Non-Speech Single Label
+| Year | Name | Data | Description | 
+| --- | --- | :---: | --- | 
+| 2016 | [Acoustic Event Dataset](https://arxiv.org/abs/1604.07160) | [▤](https://data.vision.ee.ethz.ch/cvl/ae_dataset/)  | 5k+ 28 class dataset of acoustic events (acoustic guitar, violin, bird, crowd, etc.) scraped from Freesound|
+| | []() | [▤]() | |
+
+
 ## Misc
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- | 
