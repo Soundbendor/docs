@@ -12,7 +12,7 @@
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 19 Jun 2024 | MMSP | [26th IEEE International Workshop on Multimedia Signal Processing](https://attend.ieee.org/mmsp-2024/) | Lafayette, Indiana | 2-4 Oct 2024 |
-| 28 Aug 2024 | ICASSP | [025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
+| 28 Aug 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | 30 Dec 2023| ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
 | 10 Feb 2024 | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
 
