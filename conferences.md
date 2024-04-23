@@ -15,7 +15,7 @@
 | ~31 Jan 2024~ | ICSV  | [	30th International Congress on Sound and Vibration](https://icsv30.org/) | Amsterdam, Netherlands | 08-11 Jul 2024 |
 | ~26 Feb 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
 | ~29 Feb 2024~ | SoMoS | [3rd Symposium of Sound, Movement and the Sciences](https://www.uio.no/ritmo/english/projects/djembedance/events/somos-2024/) | Oslo, Norway | 18-20 Sep 2024 |	
-| 24 Feb 2024 | SMC | [30th International Congress on Sound and Vibration](https://smcnetwork.org/smc2024/) | Porto, Portugal | 04-06 Jul 2024 |
+| ~24 Feb 2024~ | SMC | [30th International Congress on Sound and Vibration](https://smcnetwork.org/smc2024/) | Porto, Portugal | 04-06 Jul 2024 |
 | ~08 Feb 2024~ | IJCAI | [International Joint Conference on Artificial Intelligence - AI, Arts and Creativity track](https://ijcai24.org/call-for-papers-ai-arts-creativity/) | Jeju, South Korea | 03-09 Aug 2024 |
 | ~01 Mar <br> 2024~ | ELM2 | [2nd Biennial Conference on Expression, Language, and Music](https://elm.clas.uconn.edu/) | Storrs, CT, USA | 04-06 Oct 2024 |
 | ~20 Mar 2024~ | DAFx | [	27th International Conference on Digital Audio Effects](https://dafx24.surrey.ac.uk/) | Guildford, Surrey, UK | 03-07 Sep 2024 |
