@@ -16,9 +16,10 @@
 ## Piano
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2023 | [Batik_plays_Mozart](https://arxiv.org/abs/2309.02399) | [▤](https://github.com/huispaty/batik_plays_mozart) | 12 complete Mozart Piano Sonatas. MIDI, harmony, cadence and phrase annotations  |
 | 2021 | [GiantMIDI Piano](https://arxiv.org/abs/2010.07061) | [▤](https://github.com/bytedance/GiantMIDI-Piano/tree/master) | 1237 hours of transcribed piano solos in MIDI |
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
-| | []() | [▤]() | |
+
 
 ## Guitar
 | Year | Name | Data | Description | 
@@ -75,6 +76,7 @@
 ## Score
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2021 | [Annotated Mozart Sonatas]([https://arxiv.org/abs/2110.04331](https://transactions.ismir.net/articles/10.5334/tismir.63)) | [▤](https://github.com/DCMLab/mozart_piano_sonatas/) | Scores, chord labels and cadence labels for Mozart's 18 piano sonatas |
 | 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
 
 ## Lyrics
