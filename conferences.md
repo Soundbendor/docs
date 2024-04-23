@@ -5,11 +5,9 @@
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
-	
-
 | 03 May 2024 | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
-| 06 May 2024 | Audio Mostly | [	19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
-| 31 May 2024 | IWSSPA | First International Workshop on Sound Signal Processing Applications | Rota, Spain | 02-05 Jul 2024 |
+| 06 May 2024 | Audio Mostly | [19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
+| 31 May 2024 | IWSSPA | [First International Workshop on Sound Signal Processing Applications](https://sites.google.com/view/iwsspa2024) | Rota, Spain | 02-05 Jul 2024 |
 | 01 Jun 2024 | FARM | [12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design](https://functional-art.org/2024/) | Milan, Italy | 02 Sep 2024 |
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
 | ~01 Nov 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
@@ -19,6 +17,7 @@
 | ~26 Feb 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
 | ~29 Feb 2024~ | SoMoS | [3rd Symposium of Sound, Movement and the Sciences](https://www.uio.no/ritmo/english/projects/djembedance/events/somos-2024/) | Oslo, Norway | 18-20 Sep 2024 |	
 | ~24 Feb 2024~ | SMC | [30th International Congress on Sound and Vibration](https://smcnetwork.org/smc2024/) | Porto, Portugal | 04-06 Jul 2024 |
+| ~27 Jun 2024~ | DTAMR | [Digital Technologies Applied to Music Research](https://cesem.fcsh.unl.pt/en/2024/01/30/call-papers-digital-technologies-applied-to-music-research-2/) | Lisbon, Portugal | 27-29 Jun 2024 |
 | ~08 Feb 2024~ | IJCAI | [International Joint Conference on Artificial Intelligence - AI, Arts and Creativity track](https://ijcai24.org/call-for-papers-ai-arts-creativity/) | Jeju, South Korea | 03-09 Aug 2024 |
 | ~01 Mar <br> 2024~ | ELM2 | [2nd Biennial Conference on Expression, Language, and Music](https://elm.clas.uconn.edu/) | Storrs, CT, USA | 04-06 Oct 2024 |
 | ~20 Mar 2024~ | DAFx | [	27th International Conference on Digital Audio Effects](https://dafx24.surrey.ac.uk/) | Guildford, Surrey, UK | 03-07 Sep 2024 |
