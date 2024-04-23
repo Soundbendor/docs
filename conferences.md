@@ -4,14 +4,15 @@
 # Music & Technology
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
+| 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | 03 May <br> 2024 | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
 | 10 Jul <br> 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
 | ~01 Nov <br> 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
 | ~21 Jan <br> 2024~ | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 23-24 May 2024 |
 | ~29 Feb 2024~ | SoMoS | [3rd Symposium of Sound, Movement and the Sciences](https://www.uio.no/ritmo/english/projects/djembedance/events/somos-2024/) | Oslo, Norway | 18-20 Sep 2024 |	
 | ~01 Mar <br> 2024~ | ELM2 | [2nd Biennial Conference on Expression, Language, and Music](https://elm.clas.uconn.edu/) | Storrs, CT, USA | 04-06 Oct 2024 |
-| 22 Mar 2024 | CBMI | [21st International Conference on Content-based Multimedia Indexing](https://cbmi2024.org/) | Reykjavik, Iceland | 18-20 Sep 2024 |
-| 06 May 2024 | Audio Mostly | [	19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
+| ~22 Mar 2024~ | CBMI | [21st International Conference on Content-based Multimedia Indexing](https://cbmi2024.org/) | Reykjavik, Iceland | 18-20 Sep 2024 |
+| ~06 May 2024~ | Audio Mostly | [	19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
 | ~28 Mar <br> 2024~ | aimusicstudies| [International Conference in AI Music Studies](https://boblsturm.github.io/aimusicstudies2024/) | Stockholm, Sweden | 10-12 Dec 2024 |	
 | ~12 Apr <br> 2024~| ISMIR | [25th International Society for Music and Information Retrieval Conference](https://ismir.net/) | San Francisco, CA, USA | 10-14 Nov 2024 |
 
