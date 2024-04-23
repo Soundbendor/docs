@@ -76,7 +76,7 @@
 ## Score
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2021 | [Annotated Mozart Sonatas]([https://arxiv.org/abs/2110.04331](https://transactions.ismir.net/articles/10.5334/tismir.63)) | [▤](https://github.com/DCMLab/mozart_piano_sonatas/) | Scores, chord labels and cadence labels for Mozart's 18 piano sonatas |
+| 2021 | [Annotated Mozart Sonatas](https://transactions.ismir.net/articles/10.5334/tismir.63) | [▤](https://github.com/DCMLab/mozart_piano_sonatas/) | Scores, chord labels and cadence labels for Mozart's 18 piano sonatas |
 | 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
 
 ## Lyrics
