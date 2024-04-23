@@ -13,9 +13,7 @@
 | ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, Netherlands | 04-06 Sep 2024 |
 | ~29 Feb 2024~ | SoMoS | [3rd Symposium of Sound, Movement and the Sciences](https://www.uio.no/ritmo/english/projects/djembedance/events/somos-2024/) | Oslo, Norway | 18-20 Sep 2024 |	
 | ~01 Mar <br> 2024~ | ELM2 | [2nd Biennial Conference on Expression, Language, and Music](https://elm.clas.uconn.edu/) | Storrs, CT, USA | 04-06 Oct 2024 |
-
-| 20 Mar 2024 | DAFx | [	27th International Conference on Digital Audio Effects](https://dafx24.surrey.ac.uk/) | Guildford, Surrey, UK | 03-07 Sep 2024 |
-
+| ~20 Mar 2024~ | DAFx | [	27th International Conference on Digital Audio Effects](https://dafx24.surrey.ac.uk/) | Guildford, Surrey, UK | 03-07 Sep 2024 |
 | ~22 Mar 2024~ | CBMI | [21st International Conference on Content-based Multimedia Indexing](https://cbmi2024.org/) | Reykjavik, Iceland | 18-20 Sep 2024 |
 | ~28 Mar 2024~ | AIMC | [AI Music Creativity conference](https://aimc2024.pubpub.org/) | Oxford, UK | 09-11 Sep 2024 |
 | ~28 Mar  2024~ | aimusicstudies| [International Conference in AI Music Studies](https://boblsturm.github.io/aimusicstudies2024/) | Stockholm, Sweden | 10-12 Dec 2024 |	
