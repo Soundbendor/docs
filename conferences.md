@@ -1,7 +1,7 @@
 <!-- https://conferences.smcnetwork.org/ -->
 
 
-# Music & Technology
+# Music, Technology, & Science
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
@@ -12,6 +12,7 @@
 | ~01 Nov 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
 | ~21 Jan 2024~ | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 23-24 May 2024 |
 | ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, Netherlands | 04-06 Sep 2024 |
+| ~31 Jan 2024~ | ICSV  | [	30th International Congress on Sound and Vibration](https://icsv30.org/) | Amsterdam, Netherlands | 08-11 July 2024 |
 | ~26 Feb 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
 | ~29 Feb 2024~ | SoMoS | [3rd Symposium of Sound, Movement and the Sciences](https://www.uio.no/ritmo/english/projects/djembedance/events/somos-2024/) | Oslo, Norway | 18-20 Sep 2024 |	
 | ~08 Feb 2024~ | IJCAI | [International Joint Conference on Artificial Intelligence - AI, Arts and Creativity track](https://ijcai24.org/call-for-papers-ai-arts-creativity/) | Jeju, South Korea | 03-09 Aug 2024 |
