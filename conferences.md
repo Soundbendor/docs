@@ -12,6 +12,7 @@
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
 | ~01 Nov 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
 | ~21 Jan 2024~ | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 23-24 May 2024 |
+| ~20 Jan 2024~ | XAI-SA | [Explainable Machine Learning for Speech and Audio](https://xai-sa-workshop.github.io/) | Seoul, Korea | 15 Apr 2024 |
 | ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, Netherlands | 04-06 Sep 2024 |
 | ~31 Jan 2024~ | ICSV  | [	30th International Congress on Sound and Vibration](https://icsv30.org/) | Amsterdam, Netherlands | 08-11 Jul 2024 |
 | ~26 Feb 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
