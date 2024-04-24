@@ -55,6 +55,7 @@
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- | 
 | 31 Jul 2024 | ICMLA | [23rd IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla24/index.php) | Miami, FL | 18-20 Dec 2024 |
+| ~01 July 2023~ | ISML | [Intelligent Systems and Machine Learning Conference](https://sites.google.com/view/ismlcon/) | Hyderabad, India | 04-05 May 2024 | 
 | ~20 Mar 2024~ | FAIML | [International Conference on Frontiers of Artificial Intelligence and Machine Learning ](https://www.faiml.org/) | Beijing, China | 14-16 Apr 2024 |
 | ~15 Mar 2024~ | ISPR | [4th International Conference on Intelligent Systems and Pattern Recognition](https://ispr2024.sciencesconf.org/) | Istanbul, Turkey | 12-14 Jun 2024 |
 | ~15 Mar 2024~ | ICANN | [33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/) | Lugano-Viganello, Switzerland | 17-20 Sep 2024 |
