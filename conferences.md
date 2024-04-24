@@ -48,8 +48,7 @@
 | ~10 Mar 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
 | ~22 Feb 2024~ | SAM | [IEEE Sensor Array and Multichannel Signal Processing Workshop ](https://2024.ieeesam.org/) | Corvallis, OR, USA | 08-11 Jul 2024 |
 | ~10 Feb 2024~ | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
-
-
+| ~04 Apr 2024~ | SiPS | [IEEE Workshop on Signal Processing Systems](https://ieee-sips.org/) | Cambridge, MA, USA | 04-06 Nov 2024 |
 
 
 # Machine Learning & AI
