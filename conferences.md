@@ -86,6 +86,4 @@
 
 # AI and Health
 | Deadline |  Acronym | Conference | Location | Date |
-| --- | --- | --- | --- | --- |
-
-<!-- Check later:  https://www.aimhc.org/ -->
+| ~05 Nov 2023~ | AIMHC | [1st International Conference on Artificial Intelligence x Medicine Health, and Care](https://www.aimhc.org/) |  Laguna Hills, CA, USA | 05-07 Feb 2024 |
