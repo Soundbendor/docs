@@ -11,12 +11,13 @@
 | 31 May 2024 | IWSSPA | [First International Workshop on Sound Signal Processing Applications](https://sites.google.com/view/iwsspa2024) | Rota, Spain | 02-05 Jul 2024 |
 | 01 Jun 2024 | FARM | [12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design](https://functional-art.org/2024/) | Milan, Italy | 02 Sep 2024 |
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
-| ~06 Sep 2023~ | ICASSP | [49th International Conference on Acoustic, Speech, and Signal Processing]([https://xai-sa-workshop.github.io/](https://2024.ieeeicassp.org/) | Seoul, Korea | 14-19 Apr 2024 |
+| ~04 Sep 2023~ | MMM | [30th International Conference on MultiMedia Modeling](https://mmm2024.org/) | Amsterdam, the Netherlands | 29 Jan - 04 Feb 2024 |
+| ~06 Sep 2023~ | ICASSP | [49th International Conference on Acoustic, Speech, and Signal Processing](https://2024.ieeeicassp.org/) | Seoul, Korea | 14-19 Apr 2024 |
 | ~01 Nov 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
 | ~20 Jan 2024~ | XAI-SA | [Workshop on Explainable Machine Learning for Speech and Audio](https://xai-sa-workshop.github.io/) | Seoul, Korea | 15 Apr 2024 |
 | ~21 Jan 2024~ | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 23-24 May 2024 |
-| ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, Netherlands | 04-06 Sep 2024 |
-| ~31 Jan 2024~ | ICSV  | [	30th International Congress on Sound and Vibration](https://icsv30.org/) | Amsterdam, Netherlands | 08-11 Jul 2024 |
+| ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, the Netherlands | 04-06 Sep 2024 |
+| ~31 Jan 2024~ | ICSV  | [	30th International Congress on Sound and Vibration](https://icsv30.org/) | Amsterdam, the Netherlands | 08-11 Jul 2024 |
 | ~08 Feb 2024~ | IJCAI | [International Joint Conference on Artificial Intelligence - AI, Arts and Creativity track](https://ijcai24.org/call-for-papers-ai-arts-creativity/) | Jeju, South Korea | 03-09 Aug 2024 |
 | ~18 Feb 2024~ | DTAMR | [Digital Technologies Applied to Music Research](https://cesem.fcsh.unl.pt/en/2024/01/30/call-papers-digital-technologies-applied-to-music-research-2/) | Lisbon, Portugal | 27-29 Jun 2024 |
 | ~22 Feb 2024~ | DLfM  | [11th International Conference on Digital Libraries for Musicology](https://dlfm.web.ox.ac.uk/) | Stellenbosch, South Africa | 27 Jun 2024 |
