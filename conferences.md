@@ -44,6 +44,8 @@
 | 19 Jun 2024 | MMSP | [26th IEEE International Workshop on Multimedia Signal Processing](https://attend.ieee.org/mmsp-2024/) | Lafayette, Indiana | 2-4 Oct 2024 |
 | 28 Aug 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | ~30 Dec 2023~ | ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
+| ~10 Mar 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
+| ~22 Feb 2024 | SAM | [IEEE Sensor Array and Multichannel Signal Processing Workshop ](https://2024.ieeesam.org/) | Corvallis, OR, USA | 08-11 Jul 2024 |
 | ~10 Feb 2024~ | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
 
 
@@ -64,12 +66,6 @@
 | ~20 Dec 2023~ | CAI | [IEEE Conference on Artificial Intelligence](https://ieeecai.org/2024/) | Singapore | 25-27 Jun 2024 |
 | ~25 Dec 2023~ | ICPRA | [4th International Conference on Pattern Recognition and Artificial Intelligence](https://brain.korea.ac.kr/icprai2024/) | Jeju Island, Korea | 18-21 Jun 2024 |
 
-# Natural Language Processing
-| Deadline |  Acronym | Conference | Location | Date |
-| --- | --- | --- | --- | --- |
-| ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
-| ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
-
 # Multimodal Learning
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
@@ -77,12 +73,19 @@
 | ~10 Feb 2024~ | ICMI | [26th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2024/) | San José, Costa Rica | 4-8 Nov 2024 |
 | ~15 Sept 2023~ | MMsys | [ACM Multimedia Systems Conference](https://2024.acmmmsys.org/) | Bari, Italy | 15-18 Apr 2024 |
 
+# AI and Health
+| Deadline |  Acronym | Conference | Location | Date |
+| --- | --- | --- | --- | --- | 
+| ~05 Nov 2023~ | AIMHC | [1st International Conference on Artificial Intelligence x Medicine Health, and Care](https://www.aimhc.org/) |  Laguna Hills, CA, USA | 05-07 Feb 2024 |
+
 # Intelligent User Interfaces
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- | 
 | ~02 Oct 2023~ | IUI | [29th Annual Conference on Intelligent User Interfaces](https://iui.acm.org/2024/) | Greenville, SC, USA | 18-21 Mar 2024 |
 
-# AI and Health
+# Natural Language Processing
 | Deadline |  Acronym | Conference | Location | Date |
-| --- | --- | --- | --- | --- | 
-| ~05 Nov 2023~ | AIMHC | [1st International Conference on Artificial Intelligence x Medicine Health, and Care](https://www.aimhc.org/) |  Laguna Hills, CA, USA | 05-07 Feb 2024 |
+| --- | --- | --- | --- | --- |
+| ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
+| ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
+
