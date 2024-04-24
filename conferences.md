@@ -37,8 +37,6 @@
 | ~28 Mar 2024~ | aimusicstudies| [International Conference in AI Music Studies](https://boblsturm.github.io/aimusicstudies2024/) | Stockholm, Sweden | 10-12 Dec 2024 |	
 | ~12 Apr 2024~| ISMIR | [25th International Society for Music and Information Retrieval Conference](https://ismir.net/) | San Francisco, CA, USA | 10-14 Nov 2024 |
 
-
-
 # Signal Processing    
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
@@ -47,7 +45,6 @@
 | 28 Aug 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | ~30 Dec 2023~ | ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
 | ~10 Feb 2024~ | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
-
 
 
 # Machine Learning & AI
