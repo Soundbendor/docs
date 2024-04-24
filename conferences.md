@@ -79,6 +79,10 @@
 | 1 Aug 2024 | ISMIT | [8th International Symposium on Multidisciplinary Studies and Innovative Technologies](http://www.ismsitconf.org/) | Ankara, Turkey | 7-9 Nov 2024 |
 | ~10 Feb 2024~ | ICMI |[26th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2024/) | San José, Costa Rica | 4-8 Nov 2024 |
 
+# Intelligent User Interfaces
+| Deadline |  Acronym | Conference | Location | Date |
+| ~02 Oct 2023~ | IUI | [29th Annual Conference on Intelligent User Interfaces](https://iui.acm.org/2024/) | Greenville, SC, USA | 18-21 Mar 2024 |
+
 # AI and Health
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
