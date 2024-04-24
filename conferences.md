@@ -50,7 +50,7 @@
 # Machine Learning & AI
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- | 
-| ~31 Jul 2024~ | ICMLA | [23rd IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla24/index.php) | Miami, FL | 18-20 Dec 2024 |
+| 31 Jul 2024 | ICMLA | [23rd IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla24/index.php) | Miami, FL | 18-20 Dec 2024 |
 | ~20 Mar 2024~ | FAIML | [International Conference on Frontiers of Artificial Intelligence and Machine Learning ](https://www.faiml.org/) | Beijing, China | 14-16 Apr 2024 |
 | ~15 Mar 2024~ | ISPR | [4th International Conference on Intelligent Systems and Pattern Recognition](https://ispr2024.sciencesconf.org/) | Istanbul, Turkey | 12-14 Jun 2024 |
 | ~15 Mar 2024~ | ICANN | [33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/) | Lugano-Viganello, Switzerland | 17-20 Sep 2024 |
@@ -79,8 +79,10 @@
 
 # Intelligent User Interfaces
 | Deadline |  Acronym | Conference | Location | Date |
+| --- | --- | --- | --- | --- | 
 | ~02 Oct 2023~ | IUI | [29th Annual Conference on Intelligent User Interfaces](https://iui.acm.org/2024/) | Greenville, SC, USA | 18-21 Mar 2024 |
 
 # AI and Health
 | Deadline |  Acronym | Conference | Location | Date |
+| --- | --- | --- | --- | --- | 
 | ~05 Nov 2023~ | AIMHC | [1st International Conference on Artificial Intelligence x Medicine Health, and Care](https://www.aimhc.org/) |  Laguna Hills, CA, USA | 05-07 Feb 2024 |
