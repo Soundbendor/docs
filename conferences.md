@@ -40,13 +40,16 @@
 # Signal Processing    
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
+| 30 Apr 2024 | MLSP |  [34th IEEE International Workshop on Machine Learning for Signal Processing](https://2024.ieeemlsp.org/) | London, UK | 22-25 Sep 2024 |
 | 16 Jun 2024 | DCASE | [Workshop on Detection and Classification of Acoustic Scenes and Events](https://dcase.community/workshop2024/call-for-papers) | Tokyo, Japan | 23-25 Oct 2024 |
 | 19 Jun 2024 | MMSP | [26th IEEE International Workshop on Multimedia Signal Processing](https://attend.ieee.org/mmsp-2024/) | Lafayette, Indiana | 2-4 Oct 2024 |
 | 28 Aug 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | ~30 Dec 2023~ | ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
 | ~10 Mar 2024~ | EUSIPCO | [32nd European Signal Processing Conference](https://eusipcolyon.sciencesconf.org/) | Lyon, France | 26-30 Aug 2024 |
-| ~22 Feb 2024 | SAM | [IEEE Sensor Array and Multichannel Signal Processing Workshop ](https://2024.ieeesam.org/) | Corvallis, OR, USA | 08-11 Jul 2024 |
+| ~22 Feb 2024~ | SAM | [IEEE Sensor Array and Multichannel Signal Processing Workshop ](https://2024.ieeesam.org/) | Corvallis, OR, USA | 08-11 Jul 2024 |
 | ~10 Feb 2024~ | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
+
+
 
 
 # Machine Learning & AI
