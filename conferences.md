@@ -23,7 +23,7 @@
 | ~08 Feb 2024~ | IJCAI | [International Joint Conference on Artificial Intelligence - AI, Arts and Creativity track](https://ijcai24.org/call-for-papers-ai-arts-creativity/) | Jeju, South Korea | 03-09 Aug 2024 |
 | ~01 Mar 2024~ | ELM2 | [2nd Biennial Conference on Expression, Language, and Music](https://elm.clas.uconn.edu/) | Storrs, CT, USA | 04-06 Oct 2024 |
 | ~01 Mar 2024~ | ALLEGET | [4th International Workshop on Artificial intelligence and Machine Learning for Emerging Topics](http://www.alleget.site/) | Ljubljana, Slovenia | 17-20 Jun 2024 |
-| ~08 Mar 2024~ | ICAD | [29th International Conference on Auditory Display](29th International Conference on Auditory Display) | Troy, NY, USA | 24-28 Jun 2024 |
+| ~08 Mar 2024~ | ICAD | [29th International Conference on Auditory Display](https://icad2024.icad.org/) | Troy, NY, USA | 24-28 Jun 2024 |
 | ~20 Mar 2024~ | DAFx | [27th International Conference on Digital Audio Effects](https://dafx24.surrey.ac.uk/) | Guildford, Surrey, UK | 03-07 Sep 2024 |
 | ~22 Mar 2024~ | CBMI | [21st International Conference on Content-based Multimedia Indexing](https://cbmi2024.org/) | Reykjavik, Iceland | 18-20 Sep 2024 |
 | ~28 Mar 2024~ | AIMC | [AI Music Creativity conference](https://aimc2024.pubpub.org/) | Oxford, UK | 09-11 Sep 2024 |
