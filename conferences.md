@@ -43,7 +43,7 @@
 # Machine Learning & AI
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- | 
-| 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 14-15 Dec 2024 |
+| 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
 | 05 Dec 2023 | ICCAI | [10th International Conference on Computing and Artificial Intelligence ](http://www.iccai.net/) | Bali, Indonesia | 26-29 Aor 2024 |
 | 20 Dec 2023 | CAI | [IEEE Conference on Artificial Intelligence](https://ieeecai.org/2024/) | Singapore | 25-27 Jun 2024 |
 | 05 Jan 2024 | ICMLT| [9th ACM International Conference on Machine Learning Technologies](http://www.icmlt.org/) | Oslo, Norway | 24-26 May 2024 |
