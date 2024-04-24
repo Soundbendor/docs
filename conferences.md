@@ -7,6 +7,7 @@
 | 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | 03 May 2024 | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
 | 06 May 2024 | Audio Mostly | [19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
+| 12 July 2024 | SMM | [International Workshop on Speech, Music and Mind ](https://interspeech2024.org/satellite/) | Virtual | 09 Sept 2024 |
 | 31 May 2024 | IWSSPA | [First International Workshop on Sound Signal Processing Applications](https://sites.google.com/view/iwsspa2024) | Rota, Spain | 02-05 Jul 2024 |
 | 01 Jun 2024 | FARM | [12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design](https://functional-art.org/2024/) | Milan, Italy | 02 Sep 2024 |
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
