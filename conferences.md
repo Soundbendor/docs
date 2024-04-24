@@ -48,6 +48,8 @@
 | ~30 Dec 2023~ | ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
 | ~10 Feb 2024~ | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
 
+
+
 # Machine Learning & AI
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- | 
@@ -79,6 +81,8 @@
 | --- | --- | --- | --- | --- |
 | 1 Aug 2024 | ISMIT | [8th International Symposium on Multidisciplinary Studies and Innovative Technologies](http://www.ismsitconf.org/) | Ankara, Turkey | 7-9 Nov 2024 |
 | ~10 Feb 2024~ | ICMI |[26th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2024/) | San José, Costa Rica | 4-8 Nov 2024 |
+| ~15 Sept 2023~ | MMsys |[ACM Multimedia Systems Conference](https://2024.acmmmsys.org/) | Bari, Italy | 15 - 18 Apr 2024 |
+
 
 # Intelligent User Interfaces
 | Deadline |  Acronym | Conference | Location | Date |
