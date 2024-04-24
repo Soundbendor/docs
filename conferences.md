@@ -7,14 +7,15 @@
 | 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | 03 May 2024 | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
 | 06 May 2024 | Audio Mostly | [19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
-| 12 July 2024 | SMM | [International Workshop on Speech, Music and Mind ](https://interspeech2024.org/satellite/) | Virtual | 09 Sept 2024 |
 | 31 May 2024 | IWSSPA | [First International Workshop on Sound Signal Processing Applications](https://sites.google.com/view/iwsspa2024) | Rota, Spain | 02-05 Jul 2024 |
 | 01 Jun 2024 | FARM | [12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design](https://functional-art.org/2024/) | Milan, Italy | 02 Sep 2024 |
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
+| 12 Jul 2024 | SMM | [International Workshop on Speech, Music and Mind ](https://interspeech2024.org/satellite/) | Virtual | 09 Sept 2024 |
+| 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track: Ambiguity](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
 | ~04 Sep 2023~ | MMM | [30th International Conference on MultiMedia Modeling](https://mmm2024.org/) | Amsterdam, the Netherlands | 29 Jan - 04 Feb 2024 |
 | ~06 Sep 2023~ | ICASSP | [49th International Conference on Acoustic, Speech, and Signal Processing](https://2024.ieeeicassp.org/) | Seoul, Korea | 14-19 Apr 2024 |
 | ~01 Nov 2023~ | EvoMUSART | [13th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2024/evomusart/) | Aberystwyth, Wales | 03-05 Apr 2024 |
-| ~14 Jan 2024~ | WAC | [Web Audio Conference](https://www.cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/calls.html) | --- | 15-18 Mar 2024 |
+| ~14 Jan 2024~ | WAC | [Web Audio Conference](https://www.cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/calls.html) | West Lafayette, IN, USA | 15-18 Mar 2024 |
 | ~20 Jan 2024~ | XAI-SA | [Workshop on Explainable Machine Learning for Speech and Audio](https://xai-sa-workshop.github.io/) | Seoul, Korea | 15 Apr 2024 |
 | ~21 Jan 2024~ | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 23-24 May 2024 |
 | ~31 Jan 2024~ | NIME | [International Conference on New Interfaces for Musical Expression 2024](https://www.nime2024.org/) | Utrecht, the Netherlands | 04-06 Sep 2024 |
