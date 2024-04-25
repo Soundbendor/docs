@@ -21,6 +21,7 @@
 | 2021 | [GiantMIDI Piano](https://arxiv.org/abs/2010.07061) | [▤](https://github.com/bytedance/GiantMIDI-Piano/tree/master) | 1237 hours of transcribed piano solos in MIDI |
 | 2020 | [ASAP](https://archives.ismir.net/ismir2020/paper/000127.pdf) | [▤](https://github.com/fosfrancesco/asap-dataset) | Beat Aligned Scores with MAESTRO |
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
+| 2010 | [MAPS](https://inria.hal.science/inria-00544155) | [▤](https://github.com/exeex/maps-dataset) | Midi aligned piano sounds | 
 
 
 ## Guitar
