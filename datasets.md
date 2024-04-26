@@ -92,7 +92,7 @@
 ## Emotion
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
-| 2023 | [MERP](https://www.mdpi.com/1424-8220/23/1/382)) | [▤](https://github.com/dorienh/MERP) | 50 songs annotated with valence/arousal quadrants |
+| 2023 | [MERP](https://www.mdpi.com/1424-8220/23/1/382) | [▤](https://github.com/dorienh/MERP) | 50 songs annotated with valence/arousal quadrants |
 | 2021 | [EMOPIA](https://arxiv.org/abs/2108.01374) | [▤](https://zenodo.org/records/5090631) | 1087 excerpts from 387 songs annotated with valence/arousal quadrants |
 | 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
 | 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 45-sec songs excerpts annotated with valence and arousal |
