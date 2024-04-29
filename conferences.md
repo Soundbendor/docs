@@ -71,6 +71,8 @@
 | ~15 Mar 2024~ | ICANN | [33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/) | Lugano-Viganello, Switzerland | 17-20 Sep 2024 |
 | ~20 Mar 2024~ | FAIML | [International Conference on Frontiers of Artificial Intelligence and Machine Learning ](https://www.faiml.org/) | Beijing, China | 14-16 Apr 2024 |
 | ~10 Apr 2024~ | MLISE | [4th International Conference on Machine Learning and Intelligent Systems Engineering](http://mlise.org/) | Zhuhai, China | 28-30 Jun 2024 | 
+| ~30 Jan 2024~ | AICONF | [International Conference on Applied Artificial Intelligence](https://iaicf.net/) | Cambridge City, UK | 10-11 April 2024 |
+| 10 August 2024 | AMLDA | [7th International Conference on Applied Machine Learning and Data Analytics](https://icamlda.org/) | Shamshabad, India | 9-10 November 2024 |
 
 # Multimodal Learning
 | Deadline |  Acronym | Conference | Location | Date |
@@ -96,6 +98,7 @@
 | --- | --- | --- | --- | --- |
 | ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
 | ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
+| 15 June 2024 | EMNLP | [The 2024 Conference on Empirical Methods in Natural Language Processing]() | Miami, Florida | 12-16 Nov 2024 |
 
 # Social Media & Computational Social Science
 | Deadline |  Acronym | Conference | Location | Date |
