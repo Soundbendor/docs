@@ -97,3 +97,8 @@
 | ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
 | ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
 
+# Social Media & Computational Social Science
+| Deadline |  Acronym | Conference | Location | Date |
+| --- | --- | --- | --- | --- |
+| ~14 Apr 2024~ | MUWS | [International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) | Phuket, Thailand | 10 June 2024 |
+
