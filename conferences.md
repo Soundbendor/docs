@@ -1,3 +1,4 @@
+
 <!-- https://conferences.smcnetwork.org/ -->
 
 
@@ -104,4 +105,6 @@
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | ~14 Apr 2024~ | MUWS | [International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) | Phuket, Thailand | 10 June 2024 |
+| ~15 Mar 2024~ | ACII | [Affective Computing & Intelligent Interaction](https://acii-conf.net/) | Glasgow, UK | 15 Sept 2024|
+| ~05 Oct 2023~ | TheWebConf | [The Web Conference](https://www2024.thewebconf.org/) | Singapore | 13 May 2024 |
 
