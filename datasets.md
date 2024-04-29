@@ -129,6 +129,7 @@
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2013 | [MagnaTagATune](https://ismir2009.ismir.net/proceedings/OS5-5.pdf) | [▤](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) | Tags for 31k+ audio clips|
+| 2011 | [AudioSet](https://ieeexplore-ieee-org.oregonstate.idm.oclc.org/document/7952261) | [▤](https://research.google.com/audioset/index.html) | 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos |
 | | []() | [▤]() | |
 
 ## Style
