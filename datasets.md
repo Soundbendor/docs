@@ -7,6 +7,7 @@
 |2022 | [M4Singer](https://openreview.net/pdf?id=qiDmAaG6mP) | [▤](https://github.com/M4Singer/M4Singer) | 20 singers covering 700 pop songs in Mandarin with annotated scores | 
 | 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
 | 2021 | [Vocadito](https://arxiv.org/abs/2110.05580) | [▤](https://zenodo.org/records/5557945) | 40 excerpts of solo singing annotated with pitch |
+| 2020 | [Erkomaishvili](https://pdfs.semanticscholar.org/d5c2/9a55bbc23392602c52e66b57f617a4c02c6d.pdf) | [▤](https://www.audiolabs-erlangen.de/resources/MIR/2019-GeorgianMusic-Erkomaishvili) | 7 hours of Georgian Chant, XML, Audio, Onsets, Pitch|
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating 17 vocal techniques on 5 vowels |
 | 2018 | [DAMP-MVP]() | [▤](https://zenodo.org/records/2747436) | recordings of sung karaoke tracks, lyrics text files, and metadata |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
