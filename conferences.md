@@ -11,7 +11,7 @@
 | 31 May 2024 | IWSSPA | [First International Workshop on Sound Signal Processing Applications](https://sites.google.com/view/iwsspa2024) | Rota, Spain | 02-05 Jul 2024 |
 | 01 Jun 2024 | FARM | [12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design](https://functional-art.org/2024/) | Milan, Italy | 02 Sep 2024 |
 | 10 Jul 2024 | IS<sup>2</sup> | [5th IEEE International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2024/) | Erlangen, Germany | 20 Sep - <br> 02 Oct 2024 |
-| 05 Jul 2024 | NLP4MUSA | [3rd Workshop on NLP for Music]([https://internetofsounds.net/is2_2024/](https://sites.google.com/view/nlp4musa-2024/home) | San Francisco, CA, USA | 15 Nov 2024 |
+| 05 Jul 2024 | NLP4MUSA | [3rd Workshop on NLP for Music](https://sites.google.com/view/nlp4musa-2024/home) | San Francisco, CA, USA | 15 Nov 2024 |
 | 12 Jul 2024 | SMM | [International Workshop on Speech, Music and Mind ](https://interspeech2024.org/satellite/) | Virtual | 09 Sept 2024 |
 | 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track: Ambiguity](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
 | ~04 Sep 2023~ | MMM | [30th International Conference on MultiMedia Modeling](https://mmm2024.org/) | Amsterdam, the Netherlands | 29 Jan - 04 Feb 2024 |
