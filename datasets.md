@@ -19,6 +19,7 @@
 | --- | --- | :---: | --- |
 | 2023 | [Batik_plays_Mozart](https://arxiv.org/abs/2309.02399) | [▤](https://github.com/huispaty/batik_plays_mozart) | 12 complete Mozart Piano Sonatas. MIDI, harmony, cadence and phrase annotations |
 | 2023 | [nASAP](https://transactions.ismir.net/articles/10.5334/tismir.149) | [▤](https://github.com/CPJKU/asap-dataset) | Note Aligned Scores with MAESTRO |
+| 2021 | [ACPAS](https://archives.ismir.net/ismir2021/latebreaking/000013.pdf) | [▤](https://cheriell.github.io/research/ACPAS_dataset/) | Aligned audio and scores for classical piano music |
 | 2021 | [GiantMIDI Piano](https://arxiv.org/abs/2010.07061) | [▤](https://github.com/bytedance/GiantMIDI-Piano/tree/master) | 1237 hours of transcribed piano solos in MIDI |
 | 2020 | [ASAP](https://archives.ismir.net/ismir2020/paper/000127.pdf) | [▤](https://github.com/fosfrancesco/asap-dataset) | Beat Aligned Scores with MAESTRO |
 | 2018 | [MAESTRO](https://arxiv.org/abs/1810.12247) | [▤](https://magenta.tensorflow.org/datasets/maestro) | 200 hours of solo piano performances with aligned audio and MIDI |
