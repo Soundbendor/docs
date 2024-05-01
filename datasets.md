@@ -8,11 +8,17 @@
 | 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
 | 2021 | [Vocadito](https://arxiv.org/abs/2110.05580) | [▤](https://zenodo.org/records/5557945) | 40 excerpts of solo singing annotated with pitch |
 | 2020 | [Erkomaishvili](https://pdfs.semanticscholar.org/d5c2/9a55bbc23392602c52e66b57f617a4c02c6d.pdf) | [▤](https://www.audiolabs-erlangen.de/resources/MIR/2019-GeorgianMusic-Erkomaishvili) | 7 hours of Georgian Chant, XML, Audio, Onsets, Pitch|
+| 2019 | [VGMIDI Dataset](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi) |  200 MIDI pieces labelled according to emotion and 3,850 unlabeled pieces |
+| 2019 | [NMED-RP](https://ccrma.stanford.edu/~blairbo/assets/pdf/appaji2018ISMIR_LBD.pdf) | [▤](https://purl.stanford.edu/rz763kn3821) | EEG data of 5 adults listening to 16 different 30-second musical excerpts |
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating 17 vocal techniques on 5 vowels |
 | 2018 | [DAMP-MVP]() | [▤](https://zenodo.org/records/2747436) | recordings of sung karaoke tracks, lyrics text files, and metadata |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
-|2011 | [MIR-1k](https://ieeexplore.ieee.org/abstract/document/5153305) | [▤](https://zenodo.org/records/3532216) | 5000 Chinese pop songs (8 females, 11 males) with "mixture" and backing tracks | 
-| | []() | [▤]() | |
+| 2011 | [RAVDESS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391) | [▤](https://zenodo.org/records/1188976#.XZ2Xk-czZQI) | 2880 speech, 2024 song with emotional validity, intensity, and genuineness.| 
+| 2011 | [MIR-1k](https://ieeexplore.ieee.org/abstract/document/5153305) | [▤](https://zenodo.org/records/3532216) | 5000 Chinese pop songs (8 females, 11 males) with "mixture" and backing tracks | 
+
+
+NMED-RP
+
 
 ## Piano
 | Year | Name | Data | Description | 
