@@ -8,12 +8,10 @@
 | 2021 | [Schubert Winterreise Dataset](https://dl.acm.org/doi/fullHtml/10.1145/3429743) | [▤](https://zenodo.org/records/4431535) | 9 recordings (only 2 included) of Winterreise with scores and annotations |
 | 2021 | [Vocadito](https://arxiv.org/abs/2110.05580) | [▤](https://zenodo.org/records/5557945) | 40 excerpts of solo singing annotated with pitch |
 | 2020 | [Erkomaishvili](https://pdfs.semanticscholar.org/d5c2/9a55bbc23392602c52e66b57f617a4c02c6d.pdf) | [▤](https://www.audiolabs-erlangen.de/resources/MIR/2019-GeorgianMusic-Erkomaishvili) | 7 hours of Georgian Chant, XML, Audio, Onsets, Pitch|
-| 2019 | [VGMIDI Dataset](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi) |  200 MIDI pieces labelled according to emotion and 3,850 unlabeled pieces |
-| 2019 | [NMED-RP](https://ccrma.stanford.edu/~blairbo/assets/pdf/appaji2018ISMIR_LBD.pdf) | [▤](https://purl.stanford.edu/rz763kn3821) | EEG data of 5 adults listening to 16 different 30-second musical excerpts |
 | 2018 | [VocalSet](https://pseeth.github.io/public/papers/wilkins_seetharaman_ismir18.pdf) | [▤](https://zenodo.org/records/1193957) | 10.1 hours of singers demonstrating 17 vocal techniques on 5 vowels |
 | 2018 | [DAMP-MVP]() | [▤](https://zenodo.org/records/2747436) | recordings of sung karaoke tracks, lyrics text files, and metadata |
 | 2017 | [MAST Melody](http://www2.denizyuret.com/bib/bozkurt/bozkurt2017/cmmr2017_BozkurtBaysalYuret.pdf) | [▤](https://zenodo.org/records/8007358) | 1018 vocal performance assessments of 40 distinct melodies |
-| 2011 | [RAVDESS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391) | [▤](https://zenodo.org/records/1188976#.XZ2Xk-czZQI) | 2880 speech, 2024 song with emotional validity, intensity, and genuineness.| 
+
 | 2011 | [MIR-1k](https://ieeexplore.ieee.org/abstract/document/5153305) | [▤](https://zenodo.org/records/3532216) | 5000 Chinese pop songs (8 females, 11 males) with "mixture" and backing tracks | 
 
 
@@ -103,6 +101,7 @@ NMED-RP
 | 2023 | [MERP](https://www.mdpi.com/1424-8220/23/1/382) | [▤](https://github.com/dorienh/MERP) | 50 songs annotated with valence/arousal quadrants |
 | 2021 | [EMOPIA](https://arxiv.org/abs/2108.01374) | [▤](https://zenodo.org/records/5090631) | 1087 excerpts from 387 songs annotated with valence/arousal quadrants |
 | 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
+| 2019 | [NMED-RP](https://ccrma.stanford.edu/~blairbo/assets/pdf/appaji2018ISMIR_LBD.pdf) | [▤](https://purl.stanford.edu/rz763kn3821) | EEG data of 5 adults listening to 16 different 30-second musical excerpts |
 | 2018 | [PMEmo](https://dl.acm.org/doi/abs/10.1145/3206025.3206037) | [▤](https://github.com/HuiZhangDB/PMEmo) | 794 45-sec songs excerpts annotated with valence and arousal |
 | 2018 | [Deezer](https://arxiv.org/abs/1809.07276) | [▤](https://github.com/deezer/deezer_mood_detection_dataset) | 18000 songs with synthetic valence and arousal (no audio) |
 | 2016 | [DEAM](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173392) | [▤](https://cvml.unige.ch/databases/DEAM/) | 1802 30-sec song excerpts annotated with valence and arousal |
@@ -110,8 +109,8 @@ NMED-RP
 | 2014 | [Emotify](https://dspace.library.uu.nl/handle/1874/303232) | [▤](https://www.projects.science.uu.nl/memotion/emotifydata/) | 400 60-sec excerpts with 9 emotion annotations |
 | 2013 | [EMO-Music](https://dl.acm.org/doi/abs/10.1145/2506364.2506365) | [▤](https://cvml.unige.ch/databases/emoMusic/) | 744 45-sec excerpts annotated  |
 | 2011 | [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf) | [▤](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/readme.html) | 120 60-sec excerpts of music videos annotated arousal, valence, and dominance |
+| 2011 | [RAVDESS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391) | [▤](https://zenodo.org/records/1188976#.XZ2Xk-czZQI) | 2880 speech, 2024 song with emotional validity, intensity, and genuineness.| 
 
-| | []() | [▤]() | |
 
 ## Genre
 | Year | Name | Data | Description | 
@@ -130,7 +129,6 @@ NMED-RP
 | 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
 | 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
 | 2009 | [Isophonics](https://ismir2009.ismir.net/proceedings/LBD-18.pdf) | [▤](http://isophonics.net/datasets/) | beat/meter/key/chord/segmentation annotations for various popular artists (audio not included) |
-| | []() | [▤]() | |
 
 
 ## Tags
