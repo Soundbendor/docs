@@ -163,6 +163,7 @@ NMED-RP
 | --- | --- | :---: | --- | 
 | 2021 | [TAU Urban Audio-Visual Scenes 2021](https://ieeexplore.ieee.org/abstract/document/9415085) | [▤](https://zenodo.org/records/4477542)  | 10 second audio + visual acoustic scenes |
 | 2018 | [MSMD](https://storage.googleapis.com/jnl-up-j-tismir-files/journals/1/articles/12/submission/proof/12-1-302-1-10-20180904.pdf) | [▤](https://github.com/CPJKU/msmd) | synthetic dataset of 497 pieces of (classical) music that contains both audio and score representations |
+| 2021 | [PHENICX-SMM](http://www.cp.jku.at/people/schedl/Research/Publications/pdf/schedl_cbmi_2016.pdf) | [▤](http://www.cp.jku.at/datasets/PHENICX-SMM/)  | text/audio/images related to classical music (composers,performers,ensembles,etc.)|
 
 ## Non-Speech Single Label
 | Year | Name | Data | Description | 
