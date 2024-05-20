@@ -10,3 +10,4 @@ New lab members should start by reviewing the following pages to familiarize one
 - [Pytorch Hello World](https://github.com/Soundbendor/docs/wiki/Pytorch-Hello-World)
 - [Using the Zotero](https://github.com/Soundbendor/docs/wiki/Zotero-Best-Practices)
 - [MLOps with Neptune](https://github.com/Soundbendor/docs/wiki/MLOps-with-Neptune)
+- Using Jupyter on the HPC Portal (Pratik's To-Do)
