@@ -86,6 +86,7 @@ NMED-RP
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
 | 2021 | [Annotated Mozart Sonatas](https://transactions.ismir.net/articles/10.5334/tismir.63) | [▤](https://github.com/DCMLab/mozart_piano_sonatas/) | Scores, chord labels and cadence labels for Mozart's 18 piano sonatas |
+| 2021 | [PrIMuS](https://www.mdpi.com/2076-3417/8/4/606) | [▤](https://grfia.dlsi.ua.es/primus/) | 87678 incipits in MIDI, MEI, PNG, agnostic, and semantic forms |
 | 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
 | 2014 | [Schenker41](https://www.researchgate.net/publication/267568972_A_Data_Set_for_Computational_Studies_of_Schenkerian_Analysis) | [▤](https://www.cs.rhodes.edu/~kirlinp/diss.html) | MusicXML of excerpts with Schenkerian Analysis |
 | 2012? | [Nottingham Folk Song](https://abc.sourceforge.net/NMD/)| [▤](https://github.com/jukedeck/nottingham-dataset) | MIDI and ABC notation of Folk songs |
