@@ -1,5 +1,5 @@
 # Introduction
-This is resource of advice and common mistake made when writing academic papers for the lab.
+This is resource of style advice and common mistakes made when writing academic papers for the lab.
 
 # General advice
 * use the [Oxford comma](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/)
