@@ -23,7 +23,9 @@ This is resource of advice and common mistake made when writing academic papers 
 * *i.e.* (*id est*, "that is")
   - clarifies a point and is not followed by a comma
 * *e.g.,* (*exempli gratia*, "for example")
-  - is a list and followed by a comma 
+  - is a list and followed by a comma
+* *et al.* (*et alia*, "and others")
+  - requires the period after *al.*
 
 # Hyphenization
 * *large-scale* vs *large scale*
@@ -68,7 +70,9 @@ This is resource of advice and common mistake made when writing academic papers 
 
 # Proof-reading Advice
 * print out your paper to edit
-  - you will find errors and problems you didn't see on the screen
+  - you will find errors and problems you did not see on the screen
+* proof-read in a different location
+  - step away from your normal writing location and proof-read in a new or different place
 * read your paper aloud
-  - listen to the rhythm of your sentences and adjust
-  - if your paper sounds good aloud, it will read well
+  - listen to the rhythm of your sentences and adjust to improve
+  - if your paper sounds good aloud, it will read well too
