@@ -45,7 +45,7 @@ This is resource of advice and common mistake made when writing academic papers 
   - save that weather forecasting
 * limit use of *where*
   - and only when referring to a location
-  - you probably when *preposition + which*, e.g., *in which*, *from which*, etc.
+  - you probably mean *preposition + which*, e.g., *in which*, *from which*, etc.
   - note: *where* is used often and incorrectly in convesational speech
 * avoid cliches
   - e.g., *in a nutshell*, *throughout history*, *going forward*, *it is well-known*, *on the other hand*
