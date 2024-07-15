@@ -14,6 +14,8 @@ This is resource of advice and common mistake made when writing academic papers 
 * avoid parenthetical asides (whether using parentheses or commas)
   - unless clarifying a term definition 
   - parenthesis interrupt flow
+* vary your transitions and word choice
+  - do not repeat same word too often or in close proximity to other uses
 
 # Capitalization
 * *[western](https://en.wiktionary.org/wiki/western) vs. [Western](https://en.wiktionary.org/wiki/Western)*
