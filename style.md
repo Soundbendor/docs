@@ -11,6 +11,9 @@ This is resource of advice and common mistake made when writing academic papers 
   - colons introduce a list or an explanation (dependent clause)
 * avoid superlatives
   - it is usually subjective and someone, somewhere will object
+* avoid parenthetical asides (whether using parentheses or commas)
+  - unless clarifying a term definition 
+  - parenthesis interrupt flow
 
 # Capitalization
 * *[western](https://en.wiktionary.org/wiki/western) vs. [Western](https://en.wiktionary.org/wiki/Western)*
@@ -36,7 +39,7 @@ This is resource of advice and common mistake made when writing academic papers 
   
 # Words and Phrases to Avoid
 * do not use contractions in formal writing
-* do not use **due to**
+* do not use *due to*
   - save that weather forecasting
 * limit use of *where*
   - and only when referring to a location
@@ -47,7 +50,7 @@ This is resource of advice and common mistake made when writing academic papers 
 * avoid casual words
   - e.g., *really*, *okay*, *maybe*
 * avoid informal words
-  - e.g., *a bit*, * a lot*, *til*, *sort of*
+  - e.g., *a bit*, *a lot*, *til*, *sort of*
 * use *significant* correctly
   - do not use unless you have a statistical p-value of a t-test to report
 
