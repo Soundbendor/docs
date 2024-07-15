@@ -23,7 +23,7 @@ This is resource of advice and common mistake made when writing academic papers 
 * *i.e.* (*id est*, "that is")
   - clarifies a point and is not followed by a comma
 * *e.g.,* (*exempli gratia*, "for example")
-  - is a list and followed by a comma
+  - is a list and is followed by a comma
 * *et al.* (*et alia*, "and others")
   - requires the period after *al.*
 
