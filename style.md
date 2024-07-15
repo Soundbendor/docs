@@ -13,7 +13,7 @@ This is resource of style advice and common mistakes made when writing academic 
   - it is usually subjective and someone, somewhere will object
 * avoid parenthetical asides (whether using parentheses or commas)
   - unless clarifying a term definition 
-  - parenthesis interrupt flow
+  - parenthesis interrupt flow; split into clauses or sentences
 * vary your transitions and word choice
   - do not repeat same word too often or in close proximity to other uses
 
