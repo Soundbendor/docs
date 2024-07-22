@@ -157,7 +157,9 @@ NMED-RP
 | 2023 | [MuLaMCap](https://arxiv.org/pdf/2302.03917.pdf) | [▤](https://google-research.github.io/noise2music/) | 400k music-text pseudolabels (not public) |
 | 2023 | [WavCaps](https://arxiv.org/abs/2303.17395) | [▤](https://github.com/XinhaoMei/WavCaps) | 400k audio clips with paired captions |
 | 2023 | [Song Describer Dataset](https://arxiv.org/abs/2311.10057) | [▤](https://zenodo.org/records/10072001) | 1.1k captions for 706 recordings |
-| | []() | [▤]() | |
+| 2023 | [LP-MusicCaps](https://arxiv.org/abs/2307.16372) | [▤](https://huggingface.co/datasets/seungheondoh/LP-MusicCaps-MSD) | 2M+ Pseudo-captions and tags sourced from MusicCaps, Million Song Dataset, MagnaTagATune |
+| 2023 | [Brain2Music](https://arxiv.org/abs/2307.11078) | [▤](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music) | 540 captions of 15s clips sourced from GTZAN |
+| 2019 | [AudioCaps](https://aclanthology.org/N19-1011/) | [▤](https://github.com/cdjkim/audiocaps/tree/master/dataset) | 51k captions of AudioSet sounds. |
 
 ## Multimodal
 | Year | Name | Data | Description | 
