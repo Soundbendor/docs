@@ -153,6 +153,7 @@ NMED-RP
 ## Captioning
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2024 | [MidiCaps](https://arxiv.org/abs/2406.02255) | [▤](https://huggingface.co/datasets/amaai-lab/MidiCaps) | 168k MIDI files with captions (chords, time sig., genre, mood, etc.) |
 | 2023 | [MusicCaps](https://arxiv.org/abs/2301.11325) | [▤](https://research.google/resources/datasets/musiccaps/) | 5521 examples with text captions |
 | 2023 | [MuLaMCap](https://arxiv.org/pdf/2302.03917.pdf) | [▤](https://google-research.github.io/noise2music/) | 400k music-text pseudolabels (not public) |
 | 2023 | [WavCaps](https://arxiv.org/abs/2303.17395) | [▤](https://github.com/XinhaoMei/WavCaps) | 400k audio clips with paired captions |
@@ -160,7 +161,6 @@ NMED-RP
 | 2023 | [LP-MusicCaps](https://arxiv.org/abs/2307.16372) | [▤](https://huggingface.co/datasets/seungheondoh/LP-MusicCaps-MSD) | 2M+ Pseudo-captions and tags sourced from MusicCaps, Million Song Dataset, MagnaTagATune |
 | 2023 | [Brain2Music](https://arxiv.org/abs/2307.11078) | [▤](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music) | 540 captions of 15s clips sourced from GTZAN |
 | 2019 | [AudioCaps](https://aclanthology.org/N19-1011/) | [▤](https://github.com/cdjkim/audiocaps/tree/master/dataset) | 51k captions of AudioSet sounds. |
-| 2024 | [MidiCaps](https://arxiv.org/abs/2406.02255) | [▤](https://huggingface.co/datasets/amaai-lab/MidiCaps) | 168k MIDI files with captions (chords, time sig., genre, mood, etc.) |
 
 ## Multimodal
 | Year | Name | Data | Description | 
