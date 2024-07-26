@@ -6,7 +6,7 @@
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 01 Nov 2024 | EvoMUSART | [14th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2025/evomusart/) | Trieste, Italy | 23-25 Apr 2025 |
-| ~18 Jan 2025~ | ICNMC | [12th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 22-23 March 2025 |
+| 18 Jan 2025 | ICNMC | [12th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 22-23 March 2025 |
 | 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track: Ambiguity](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
 | ~30 Apr 2024~ | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | ~03 May 2024~ | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
@@ -44,7 +44,7 @@
 # Signal Processing    
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
-| ~28 Aug 2024~ 09 Sep 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
+| 09 Sep 2024 ~28 Aug 2024~ | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | ~30 Apr 2024~ | MLSP |  [34th IEEE International Workshop on Machine Learning for Signal Processing](https://2024.ieeemlsp.org/) | London, UK | 22-25 Sep 2024 |
 | ~06 May 2024~ | TSP |  [47th International Conference on Telecommunications and Signal Processing](https://tsp.vutbr.cz/) | Virtual Event | 10-12 Jul 2024 |
 | ~16 Jun 2024~ | DCASE | [Workshop on Detection and Classification of Acoustic Scenes and Events](https://dcase.community/workshop2024/call-for-papers) | Tokyo, Japan | 23-25 Oct 2024 |
@@ -58,10 +58,10 @@
 
 # Machine Learning & AI
 | Deadline |  Acronym | Conference | Location | Date |
-| --- | --- | --- | --- | --- | 
-| 31 May 2024 | FMLDS | [IEEE International Conference on Future Machine Learning and Data Science]([https://www.icmla-conference.org/icmla24/index.php]https://conferences.ieee.org/conferences_events/conferences/conferencedetails/63805)) | Sydney, Australia | 20-23 Dec 2024 |
+| --- | --- | --- | --- | --- |
 | 31 Jul 2024 | ICMLA | [23rd IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla24/index.php) | Miami, FL | 18-20 Dec 2024 |
 | 10 August 2024 | AMLDA | [7th International Conference on Applied Machine Learning and Data Analytics](https://icamlda.org/) | Shamshabad, India | 9-10 November 2024 |
+| ~31 May 2024~ | FMLDS | [IEEE International Conference on Future Machine Learning and Data Science]([https://www.icmla-conference.org/icmla24/index.php]https://conferences.ieee.org/conferences_events/conferences/conferencedetails/63805)) | Sydney, Australia | 20-23 Dec 2024 |
 | ~01 July 2023~ | ISML | [Intelligent Systems and Machine Learning Conference](https://sites.google.com/view/ismlcon/) | Hyderabad, India | 04-05 May 2024 | 
 | ~05 Dec 2023~ | ICCAI | [10th International Conference on Computing and Artificial Intelligence ](http://www.iccai.net/) | Bali, Indonesia | 26-29 Aor 2024 |
 | ~20 Dec 2023~ | CAI | [IEEE Conference on Artificial Intelligence](https://ieeecai.org/2024/) | Singapore | 25-27 Jun 2024 |
@@ -103,7 +103,7 @@
 | 15 Sep 2024 | ICON | [21st International Conference on Natural Language Processing](https://www.au-kbc.org/icon2024/index.html) | Chennai, India | 19-22 Dec 2024 |
 | ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
 | ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
-| 15 June 2024 | EMNLP | [The 2024 Conference on Empirical Methods in Natural Language Processing]() | Miami, Florida | 12-16 Nov 2024 |
+| ~15 June 2024~ | EMNLP | [The 2024 Conference on Empirical Methods in Natural Language Processing]() | Miami, Florida | 12-16 Nov 2024 |
 
 # Social Media & Computational Social Science
 | Deadline |  Acronym | Conference | Location | Date |
