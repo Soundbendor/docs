@@ -98,6 +98,7 @@
 # Natural Language Processing
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
+| 15 Sep 2024 | ICON | [21st International Conference on Natural Language Processing](https://www.au-kbc.org/icon2024/index.html) | Chennai, India | 19-22 Dec 2024 |
 | ~02 Mar 2024~ | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Kos Island, Greece | 1-5 Sept 2024 |
 | ~30 Nov 2023~ | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
 | 15 June 2024 | EMNLP | [The 2024 Conference on Empirical Methods in Natural Language Processing]() | Miami, Florida | 12-16 Nov 2024 |
@@ -105,7 +106,6 @@
 # Social Media & Computational Social Science
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
-| ~15 Sep 2024~ | ICON | [21st International Conference on Natural Language Processing](https://www.au-kbc.org/icon2024/index.html) | Chennai, India | 19-22 Dec 2024 |
 | ~14 Apr 2024~ | MUWS | [International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) | Phuket, Thailand | 10 June 2024 |
 | ~15 Mar 2024~ | ACII | [Affective Computing & Intelligent Interaction](https://acii-conf.net/) | Glasgow, UK | 15 Sept 2024|
 | ~05 Oct 2023~ | TheWebConf | [The Web Conference](https://www2024.thewebconf.org/) | Singapore | 13 May 2024 |
