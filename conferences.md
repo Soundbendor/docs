@@ -5,6 +5,7 @@
 # Music, Technology, & Science
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
+| 01 Nov 2024 | EvoMUSART | [14th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2025/evomusart/) | Trieste, Italy | 23-25 Apr 2025 |
 | 30 Apr 2024 | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | 03 May 2024 | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
 | 06 May 2024 | Audio Mostly | [19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
