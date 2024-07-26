@@ -43,7 +43,7 @@
 # Signal Processing    
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
-| 28 Aug 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
+| ~28 Aug 2024~ 09 Sep 2024 | ICASSP | [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) | Hyderabad, India | 6-11 Apr 2025 |
 | ~30 Apr 2024~ | MLSP |  [34th IEEE International Workshop on Machine Learning for Signal Processing](https://2024.ieeemlsp.org/) | London, UK | 22-25 Sep 2024 |
 | ~06 May 2024~ | TSP |  [47th International Conference on Telecommunications and Signal Processing](https://tsp.vutbr.cz/) | Virtual Event | 10-12 Jul 2024 |
 | ~16 Jun 2024~ | DCASE | [Workshop on Detection and Classification of Acoustic Scenes and Events](https://dcase.community/workshop2024/call-for-papers) | Tokyo, Japan | 23-25 Oct 2024 |
