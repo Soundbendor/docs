@@ -172,6 +172,7 @@ NMED-RP
 ## Non-Speech Single Label
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- | 
+| 2024 | [TT Sounds](https://arxiv.org/abs/2409.11760) | [▤](https://github.com/cogsys-tuebingen/tt_sounds)  | 3k+ table tennis racket-ball sounds for classification |
 | 2016 | [Acoustic Event Dataset](https://arxiv.org/abs/1604.07160) | [▤](https://data.vision.ee.ethz.ch/cvl/ae_dataset/)  | 5k+ 28 class dataset of acoustic events (acoustic guitar, violin, bird, crowd, etc.) scraped from Freesound|
 | | []() | [▤]() | |
 
