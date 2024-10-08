@@ -126,6 +126,7 @@ NMED-RP
 ## Form/Structure/Analysis
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2024 | [SynTheory](https://arxiv.org/abs/2410.00872) | [▤](https://huggingface.co/datasets/meganwei/syntheory) | synthetic audio/MIDI music theory dataset |
 | 2020 | [Bach Chorales Figured Bass](https://program.ismir2020.net/poster_5-02.html) | [▤](https://zenodo.org/records/5084914#.YO4nSzPiuHv) | 139 J.S. Bach chorales with figured bass (MusicXML) |
 | 2019 | [Harmonix](https://archives.ismir.net/ismir2019/paper/000068.pdf) | [▤](https://github.com/urinieto/harmonixset) | beat and structure annocations for 912 Western pop songs (audio in mel spectrograms) |
 | 2011 | [SALAMI](https://archives.ismir.net/ismir2011/paper/000099.pdf) | [▤](https://github.com/DDMAL/salami-data-public) | 2400 structure annotations for music of various genres (1400 recordings, must fetch manually) |
