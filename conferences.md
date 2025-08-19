@@ -5,11 +5,12 @@
 # Music, Technology, & Science
 | Deadline | Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
+| ~17 Sep 2025~ | ICASSP | [51st International Conference on Acoustic, Speech, and Signal Processing](https://2026.ieeeicassp.org/) | Barcelona, Spain | 04-08 May 2026 |
 | 01 Nov 2025 | EvoMUSART | [15th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2026/evomusart/) | Toulouse, Farance | 08-10 Apr 2026 |
-| 01 Nov 2024 | EvoMUSART | [14th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2025/evomusart/) | Trieste, Italy | 23-25 Apr 2025 |
-| 18 Jan 2025 | ICNMC | [12th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 22-23 March 2025 |
-| 01 Oct 2024 | AIMG | [IEEE Big Data Workshop on AI Music Generation](https://www.intellisky.org/workshops/AIMG2024/workshop_AIMG2024.html) | Washington DC, USA (+ Hybrid) | 15-18 Dec 2024 |
-| 02 Aug 2024 | NeurIPS | [NeurIPS Creative AI Track: Ambiguity](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
+| ~01 Nov 2024~ | EvoMUSART | [14th International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/2025/evomusart/) | Trieste, Italy | 23-25 Apr 2025 |
+| ~18 Jan 2025~ | ICNMC | [12th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 22-23 March 2025 |
+| ~01 Oct 2024~ | AIMG | [IEEE Big Data Workshop on AI Music Generation](https://www.intellisky.org/workshops/AIMG2024/workshop_AIMG2024.html) | Washington DC, USA (+ Hybrid) | 15-18 Dec 2024 |
+| ~02 Aug 2024~ | NeurIPS | [NeurIPS Creative AI Track: Ambiguity](https://neurips.cc/Conferences/2024/CallForCreativeAI) | Vancouver, Canada | 09-15 Dec 2024 |
 | ~30 Apr 2024~ | CIM | [	Colloquium of Musical Informatics 2024](https://www.aimi-musica.org/?page_id=3954) | Turin, Italy | 30 Sep - 02 Oct 2024 |
 | ~03 May 2024~ | SSSS| [Speculative Sound Synthesis Symposium 2024](https://speculative.iem.at/symposium/) | Graz, Austria | 20-28 Sep 2024 |
 | ~06 May 2024~ | Audio Mostly | [19th International Audio Mostly Conference](https://audiomostly.com/2024/) | Milan, Italy | 18-20 Sep 2024 |
