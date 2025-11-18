@@ -85,6 +85,7 @@ NMED-RP
 ## Score
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2025 | [PDMX](https://arxiv.org/abs/2409.10831) | [▤](https://github.com/pnlong/PDMX) | 250K Public Domain MusicXml scores from MuseScore |
 | 2021 | [Annotated Mozart Sonatas](https://transactions.ismir.net/articles/10.5334/tismir.63) | [▤](https://github.com/DCMLab/mozart_piano_sonatas/) | Scores, chord labels and cadence labels for Mozart's 18 piano sonatas |
 | 2021 | [PrIMuS](https://www.mdpi.com/2076-3417/8/4/606) | [▤](https://grfia.dlsi.ua.es/primus/) | 87678 incipits in MIDI, MEI, PNG, agnostic, and semantic forms |
 | 2016 | [MusicNet](https://arxiv.org/abs/2110.04331) | [▤](https://zenodo.org/records/5120004) | 330 classical recording with 1M labels for instrument, timing, and position |
