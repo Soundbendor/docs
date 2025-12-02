@@ -100,6 +100,7 @@ NMED-RP
 ## Emotion
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2025 | [XMIDI](https://ieeexplore.ieee.org/document/11091494) | [▤](https://github.com/xmusic-project/XMIDI_Dataset) | 100K MIDI files (5K hours) with emotion and genre labels |
 | 2023 | [MERP](https://www.mdpi.com/1424-8220/23/1/382) | [▤](https://github.com/dorienh/MERP) | 50 songs annotated with valence/arousal quadrants |
 | 2021 | [EMOPIA](https://arxiv.org/abs/2108.01374) | [▤](https://zenodo.org/records/5090631) | 1087 excerpts from 387 songs annotated with valence/arousal quadrants |
 | 2019 | [VGMIDI](https://arxiv.org/abs/2103.06125) | [▤](https://github.com/lucasnfe/vgmidi?tab=readme-ov-file) | 200 valence/arousal quadrant labeled video game scores with MIDI |
@@ -117,6 +118,7 @@ NMED-RP
 ## Genre
 | Year | Name | Data | Description | 
 | --- | --- | :---: | --- |
+| 2025 | [XMIDI](https://ieeexplore.ieee.org/document/11091494) | [▤](https://github.com/xmusic-project/XMIDI_Dataset) | 100K MIDI files (5K hours) with emotion and genre labels |
 | 2022 | [ComMU](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fff3ba5059aeeb88c324b6ba9b298166-Abstract-Datasets_and_Benchmarks.html) | [▤](https://pozalabs.github.io/ComMU/) | professionally-composed MIDI sequences with metadata (including genre) |
 | 2021 | [MTG-Jamendo](https://repositori.upf.edu/handle/10230/42015) | [▤](https://mtg.github.io/mtg-jamendo-dataset/) | 55k songs annotated with 87 genres |
 | 2019 | [AcousticBrainz](https://repositori.upf.edu/handle/10230/41985) | [▤](https://mtg.github.io/acousticbrainz-genre-dataset/) | audio features for 2M+ songs with genre annotations |
